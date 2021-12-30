@@ -1,5 +1,6 @@
 # object-oriented-programming
 these projects were part of my object-oriented-programming course in the second year of my bachelor's degree <br /><br />
+all projects have to do with school enviroment simulation <br /><br />
 **Project 1** <br />
 This program tries to make a school environment and then moves the students fromthe school yard into the classes that they belong to if the teacher of their class has not entered the class yet. Language: c++
 
